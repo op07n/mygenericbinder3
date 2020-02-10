@@ -18,4 +18,5 @@ dependencies:
     - streamlit
     - jupyter-server-proxy
     - nbserverproxy
+    - nbgitpuller
     - nbconvert
