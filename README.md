@@ -18,3 +18,8 @@ Examples of use:
 https://mybinder.org/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/data-8/materials-fa17
 
 http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/data-8/materials-fa17
+
+http://binder.pangeo.io/v2/gh/op07n/mygenericbinder3/master?urlpath=git-pull?repo=https://github.com/Bhupesh-V/Learn-Python-Packages
+
+
+
